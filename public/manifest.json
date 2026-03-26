@@ -1,0 +1,19 @@
+{
+  "name": "CalorieTrack Pro",
+  "short_name": "Калории",
+  "description": "Трекер питания и тренировок",
+  "start_url": "/calorie-tracker2.0/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "scope": "/calorie-tracker2.0/",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
